@@ -1,0 +1,36 @@
+2025-04-26 22:18:17 - SMS gönderildi: +905454555209 → "fr" (Karakter: 2)
+2025-04-26 22:18:52 - SMS gönderildi: +905454555209 → "fregergre" (Karakter: 9)
+2025-04-26 22:20:53 - SMS gönderildi: +905454555209 → "ergt" (Karakter: 4)
+2025-04-26 23:39:32 - SMS gönderildi: +905454555209 → "sedrftgyhujı" (Karakter: 12)
+2025-04-26 23:39:57 - SMS gönderildi: +905454555209 → "wer" (Karakter: 3)
+2025-04-26 23:40:32 - SMS gönderildi: +905454555209 → "fvhj
+" (Karakter: 6)
+2025-04-27 01:17:24 - SMS gönderildi: +905458971143 → "bhdgıgkçwgk" (Karakter: 11)
+2025-04-27 02:14:38 - +905458971143 - qrqrrw3
+2025-04-27 02:14:38 - SMS gönderildi: +905458971143 → "qrqrrw3" (Karakter: 7)
+2025-04-28 19:50:05 - +905458971143 - merhabaa
+2025-04-28 19:50:05 - ✅ Başarılı - SMS gönderildi: +905458971143 → "merhabaa" (Karakter: 8)
+2025-05-24 16:41:07 - +905458971143 - Randevunuz yarın saat 14:00’tedir.eyvallah
+2025-05-24 16:41:07 - ✅ Başarılı - SMS gönderildi: +905458971143 → "Randevunuz yarın saat 14:00’tedir.eyvallah" (Karakter: 42)
+2025-05-24 16:41:46 - +905458971143 - Ödemenizi unutmayınız lütfen.eyvallah
+2025-05-24 16:41:46 - ✅ Başarılı - SMS gönderildi: +905458971143 → "Ödemenizi unutmayınız lütfen.eyvallah" (Karakter: 37)
+2025-05-24 16:41:52 - +905458971143 - Ödemenizi unutmayınız lütfen.eyvallah
+2025-05-24 16:41:52 - ✅ Başarılı - SMS gönderildi: +905458971143 → "Ödemenizi unutmayınız lütfen.eyvallah" (Karakter: 37)
+2025-05-24 16:41:53 - +905458971143 - Ödemenizi unutmayınız lütfen.eyvallah
+2025-05-24 16:41:53 - ✅ Başarılı - SMS gönderildi: +905458971143 → "Ödemenizi unutmayınız lütfen.eyvallah" (Karakter: 37)
+2025-05-24 16:41:54 - +905458971143 - Ödemenizi unutmayınız lütfen.eyvallah
+2025-05-24 16:41:54 - ✅ Başarılı - SMS gönderildi: +905458971143 → "Ödemenizi unutmayınız lütfen.eyvallah" (Karakter: 37)
+2025-05-24 16:41:54 - +905458971143 - Ödemenizi unutmayınız lütfen.eyvallah
+2025-05-24 16:41:54 - ✅ Başarılı - SMS gönderildi: +905458971143 → "Ödemenizi unutmayınız lütfen.eyvallah" (Karakter: 37)
+2025-05-24 16:41:56 - +905458971143 - Ödemenizi unutmayınız lütfen.eyvallah
+2025-05-24 16:41:56 - ✅ Başarılı - SMS gönderildi: +905458971143 → "Ödemenizi unutmayınız lütfen.eyvallah" (Karakter: 37)
+2025-05-24 16:41:56 - +905458971143 - Ödemenizi unutmayınız lütfen.eyvallah
+2025-05-24 16:41:56 - ✅ Başarılı - SMS gönderildi: +905458971143 → "Ödemenizi unutmayınız lütfen.eyvallah" (Karakter: 37)
+2025-05-24 16:57:01 - +905456667889 - Doğum günün kutlu olsun! selamlarsss
+2025-05-24 16:57:01 - ✅ Başarılı - SMS gönderildi: +905456667889 → "Doğum günün kutlu olsun! selamlarsss" (Karakter: 36)
+2025-05-24 17:19:30 - +905456667878 - Randevunuz yarın saat 14:00’tedir.srtystysty
+2025-05-24 17:19:30 - ✅ Başarılı - SMS gönderildi: +905456667878 → "Randevunuz yarın saat 14:00’tedir.srtystysty" (Karakter: 44)
+2025-05-24 21:14:57 - +905456678989 - Doğum gününüz kutlu olsun!
+2025-05-24 21:14:57 - ✅ Başarılı - SMS gönderildi: +905456678989 → "Doğum gününüz kutlu olsun!" (Karakter: 26)
+2025-05-24 21:17:57 - +905458971143 - Ödemenizi unutmayınız lütfen.
+2025-05-24 21:17:57 - ✅ Başarılı - SMS gönderildi: +905458971143 → "Ödemenizi unutmayınız lütfen." (Karakter: 29)
