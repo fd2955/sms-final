@@ -56,10 +56,3 @@ Sms-Otomasyon-New/
 3. `kisiler.txt`, `sms_log.txt` dosyalarının bulunduğundan emin olun.
 4. `F5` tuşu ile çalıştırın.
 
-## 📝 Geri Bildirim
-
-Geri bildirim, hata bildirimi ya da önerileriniz için proje içindeki "Yardım ve Geri Bildirim" sekmesini kullanabilir veya bu repoya issue açabilirsiniz.
-
-## 📃 Lisans
-
-MIT Lisansı ile lisanslanmıştır.
